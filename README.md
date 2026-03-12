@@ -2,7 +2,9 @@
 
 **[nomoreamr.org](https://nomoreamr.org)**
 
-NoMoReAMR is a [NordForsk](https://www.nordforsk.org/)-funded collaborative initiative promoting integrated One Health research across the Nordic region. This open knowledge base maps the surveillance systems, key institutions, data sources, and challenges involved in monitoring Antimicrobial Resistance (AMR) and Antimicrobial Use (AMU) in Denmark, Finland, Iceland, Norway, and Sweden.
+NoMoReAMR is a [NordForsk](https://www.nordforsk.org/)-funded collaborative initiative promoting integrated One Health research across the Nordic region. 
+
+nomoreamr.org is a open knowledge base that maps the surveillance systems, key institutions, data sources, and challenges involved in monitoring Antimicrobial Resistance (AMR) and Antimicrobial Use (AMU) in Denmark, Finland, Iceland, Norway, and Sweden.
 
 ## Content Structure
 
