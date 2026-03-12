@@ -1,7 +1,6 @@
 ---
 title: Contributing
 aliases:
-  - Contributing
   - How to Contribute
 tags:
   - meta
