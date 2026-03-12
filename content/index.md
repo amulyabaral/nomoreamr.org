@@ -1,5 +1,5 @@
 ---
-title: NoMoReAMR – Nordic AMR & AMU Surveillance Knowledge Base
+title: Nordic consortium to Monitor & Research AMR (NoMoReAMR)
 aliases:
   - Home
   - NoMoReAMR
@@ -13,7 +13,7 @@ tags:
 
 # What is NoMoReAMR?
 
-Nordic consortium to Monitor & Research AMR (NoMoReAMR) is a [NordForsk](https://www.nordforsk.org/)-funded collaborative initiative promoting integrated [[One Health]] research across the Nordic region. The project aims to serve as a model for cross-border AMR/AMU surveillance worldwide. See the [[Roadmap]] for our vision.
+NoMoReAMR is a [NordForsk](https://www.nordforsk.org/)-funded collaborative initiative promoting integrated [[One Health]] research across the Nordic region. The project aims to serve as a model for cross-border AMR/AMU surveillance worldwide. See the [[Roadmap]] for our vision.
 
 
 We're mapping the surveillance systems, key institutions, data sources, and challenges involved in monitoring [[Antimicrobial Resistance (AMR)]] and [[Antimicrobial Use (AMU)]] in [[Denmark]], [[Finland]], [[Iceland]], [[Norway]], and [[Sweden]]. It is built on the [[One Health]] principle - recognising that human, animal, and environmental health are interconnected.
