@@ -35,6 +35,8 @@ npx quartz build --serve
 2. **Edit or add** Markdown files in `content/`
 3. **Submit a pull request** with a description of your changes
 
+**Not familiar with Git?** Just [open an issue](https://github.com/amulyabaral/nomoreamr.org/issues/new) describing what you'd like to add or change, and we'll take care of the rest.
+
 ### Writing guidelines
 
 - Every page needs YAML frontmatter with `title`, `aliases`, and `tags`
