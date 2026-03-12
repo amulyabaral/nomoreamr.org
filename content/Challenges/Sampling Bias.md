@@ -8,7 +8,7 @@ tags:
 
 # Sampling Bias
 
-> One of the five key [[Challenges to Integrated Surveillance]].
+> One of the key [[Challenges to Integrated Surveillance]] identified in Table 2 of the paper.
 
 ## Problem
 

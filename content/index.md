@@ -12,7 +12,7 @@ tags:
 
 # What is NoMoReAMR?
 
-NoMoReAMR is a [NordForsk](https://www.nordforsk.org/)-funded collaborative initiative promoting integrated [[One Health]] research across the Nordic region. The project aims to serve as a model for cross-border AMR/AMU surveillance worldwide. See the [[Roadmap]] for our vision.
+NoMoReAMR is a [NordForsk](https://www.nordforsk.org/)-funded collaborative initiative promoting integrated [[One Health]] research across the Nordic region. The project aims to serve as a model for cross-border AMR/AMU surveillance worldwide. See [[Roadmap/Roadmap]] for our vision.
 
 
 Through NoMoReAMR, we're mapping the surveillance systems, key institutions, data sources, and challenges involved in monitoring [[Antimicrobial Resistance (AMR)]] and [[Antimicrobial Use (AMU)]] in [[Denmark]], [[Finland]], [[Iceland]], [[Norway]], and [[Sweden]]. It is built on the [[One Health]] principle - recognising that human, animal, and environmental health are interconnected.

@@ -42,7 +42,7 @@ The proposed system:
 
 ## Challenges and Proposed Solutions
 
-The paper identifies five current obstacles to integrated regional AMR surveillance (Table 2 in the paper) and proposes solutions for each.
+We identify five current obstacles to integrated regional AMR surveillance and propose solutions for each.
 
 ### 1. Data Granularity
 Start with nationally aggregated, standardised, de-identified datasets submitted by each country's national coordinating bodies. This avoids GDPR complications and builds on existing reporting structures. In parallel, develop a regulatory framework that enables access to both aggregated summaries and raw anonymised data, removing the need for various institutional clearance applications. See [[Reporting of Aggregated Data]].
