@@ -12,6 +12,12 @@ This is an open knowledge base on [[Antimicrobial Resistance (AMR)|AMR]] and [[A
 
 ## How to Contribute
 
+### Option 1: Open an Issue (easiest)
+
+Not familiar with Git or pull requests? No problem — just [open an issue](https://github.com/amulyabaral/nomoreamr.org/issues/new) describing what you'd like to add or change, and we'll take care of the rest.
+
+### Option 2: Submit a Pull Request
+
 1. **Fork the repository** on GitHub
 2. **Edit or add content** in the `content/` directory
 3. **Submit a pull request** with a description of your changes
