@@ -4,7 +4,6 @@ aliases:
   - Home
   - NoMoReAMR
 tags:
-  - homepage
   - AMR
   - AMU
   - Nordic

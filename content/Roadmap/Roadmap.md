@@ -13,7 +13,7 @@ tags:
 This roadmap outlines the path toward integrated [[Antimicrobial Resistance (AMR)|AMR]] and [[Antimicrobial Use (AMU)|AMU]] surveillance across the Nordic countries, following [[One Health]] principles.
 
 > [!abstract] Citation
-> Based on: Abramova et al., "Roadmap for Integrated One Health AMR Surveillance in Nordic countries" - a NordForsk-funded collaborative initiative.
+> Abramova et al., "Roadmap for Integrated One Health AMR Surveillance in Nordic countries"
 
 ## Current State
 
