@@ -1,4 +1,4 @@
-# NoMoReAMR – Nordic AMR/AMU Knowledge Base
+# Nordic consortium to Monitor & Research AMR (NoMoReAMR)
 
 **[nomoreamr.org](https://nomoreamr.org)**
 
