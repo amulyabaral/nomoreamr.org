@@ -40,35 +40,24 @@ The proposed system:
 2. **Collects and shares data via an integrated platform** - enabling unified regional surveillance
 3. **Could leverage federated machine learning** for joint analyses on data that cannot be directly shared
 
-## Recommendations
+## Challenges and Proposed Solutions
 
-### 1. Start with Aggregated Data
-Begin with nationally aggregated, standardised, de-identified datasets. This avoids GDPR complications and builds on existing reporting structures. See [[Reporting of Aggregated Data]].
+The paper identifies five current obstacles to integrated regional AMR surveillance (Table 2 in the paper) and proposes solutions for each.
 
-### 2. Store Raw Quantitative Data
-Implement policies for storing raw MIC and disk zone diameter data to enable retrospective analysis. See [[AST Reporting]].
+### 1. Data Granularity
+Start with nationally aggregated, standardised, de-identified datasets submitted by each country's national coordinating bodies. This avoids GDPR complications and builds on existing reporting structures. In parallel, develop a regulatory framework that enables access to both aggregated summaries and raw anonymised data, removing the need for various institutional clearance applications. See [[Reporting of Aggregated Data]].
 
-### 3. Link Clinical Isolates to Diagnoses
-Develop secure national systems connecting laboratory results with clinical information. See [[Clinical Isolate-Diagnosis Link]].
+### 2. EUCAST Breakpoints
+EUCAST breakpoints are updated regularly, making historical data no longer directly comparable with current data. Raw data (MIC values, disk zone diameters) is not always saved — only the S/I/R interpretation. Implement a policy for the storage of raw MIC and disk zone data in national databases to allow retrospective analysis and ensure consistent trend monitoring even with evolving breakpoints. See [[AST Reporting]].
 
-### 4. Enable Near Real-Time Sharing
-Build systems for near real-time data exchange for high-priority resistance phenotypes. See [[Real-Time Data Sharing]].
+### 3. Missing Link Between Clinical Isolates and Diagnosis
+Bacterial isolates are typically reported with resistance profiles but are not always linked to clinical context (diagnosis, type of infection, outcome). Develop national systems that securely connect laboratory results with clinical information by leveraging national electronic medical record platforms and existing health data registries. Adopt standardised data formats (e.g., WHO GLASS-compatible frameworks) and unique patient identifiers that enable linkage across datasets without compromising privacy. See [[Clinical Isolate-Diagnosis Link]].
 
-### 5. Address Sampling Bias
-Expand surveillance beyond hospitals to include community settings and environmental sources. See [[Sampling Bias]].
+### 4. Delayed Reporting
+Reliance on EU structures for AMR surveillance has drawbacks, including challenges with real-time data sharing due to reporting delays. Timely data is crucial for detecting emerging resistance trends, outbreaks, and cross-border transmission events. Build on existing national notification systems for selected resistant phenotypes to enable near real-time sharing for high-priority resistance phenotypes. See [[Real-Time Data Sharing]].
 
-### 6. Develop a Regulatory Framework
-Address [[Legal and Ethical Considerations|legal, ethical, and technical challenges]] around data privacy and cross-border sharing. Establish joint secure platforms.
-
-## Implementation Phases
-
-| Phase | Focus | Approach |
-|---|---|---|
-| **Phase 1** | Data standardisation | Harmonise reporting formats, adopt WHO GLASS-compatible frameworks |
-| **Phase 2** | Platform development | Build integrated platform for pooling national surveillance data |
-| **Phase 3** | Real-time integration | Enable near real-time sharing for priority pathogens |
-| **Phase 4** | Environmental integration | Include [[Environmental AMR Surveillance|environmental monitoring]] data |
-| **Phase 5** | Advanced analytics | Federated machine learning, cross-border trend analysis |
+### 5. Secondary Data Use
+A vast amount of data is produced that can be utilised for both surveillance and research, including genomic and metagenomic datasets, socio-economic and environmental variables, and pharmaceutical industry data. However, legal restrictions are often associated with secondary use of data, and cross-border data sharing is hindered by national regulations. Address the need for secure computing environments that comply with data protection regulations, and develop novel computational analysis strategies for sensitive data environments. See [[Legal and Ethical Considerations]].
 
 ## Vision
 
