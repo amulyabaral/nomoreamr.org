@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "NoMoreAMR",
-    pageTitleSuffix: " – Nordic AMR/AMU Knowledge Base",
+    pageTitle: "NoMoReAMR",
+    pageTitleSuffix: " – Nordic consortium to Monitor & Research AMR",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
