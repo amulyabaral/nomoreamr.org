@@ -1,0 +1,22 @@
+# Build output
+site/
+public/
+quartz-build/
+.quartz-cache/
+
+# Obsidian
+.obsidian/
+
+# Node
+node_modules/
+
+# Database (large binary)
+*.db
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
