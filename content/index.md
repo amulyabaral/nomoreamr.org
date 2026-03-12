@@ -28,11 +28,11 @@ Each Nordic country operates a national surveillance programme that monitors AMR
 
 | Country | Programme | Key Entities |
 |---|---|---|
-| 🇩🇰 [[Denmark]] | [[DANMAP]] | [[SSI]], [[DTU Food]], [[DVFA]], [[DHDA]], [[DK-Vet]] |
-| 🇫🇮 [[Finland]] | [[FINRES-FINRES-Vet\|FINRES / FINRES-Vet]] | [[THL]], [[Fimea]], [[Finnish Food Authority\|Ruokavirasto]] |
-| 🇮🇸 [[Iceland]] | [[Icelandic AMR-AMU Report]] | [[Iceland Directorate of Health\|Directorate of Health]], [[MAST]] |
-| 🇳🇴 [[Norway]] | [[NORM-NORM-Vet\|NORM / NORM-Vet]] | [[NIPH]], [[NVI]], [[UNN]], [[NFSA]] |
-| 🇸🇪 [[Sweden]] | [[Swedres-Svarm]] | [[PHAS]], [[SVA]], [[Swedish eHealth Agency\|eHealth Agency]], [[SBA]] |
+| [[Denmark]] | [[DANMAP]] | [[SSI]], [[DTU Food]], [[DVFA]], [[DHDA]], [[DK-Vet]] |
+| [[Finland]] | [[FINRES-FINRES-Vet\|FINRES / FINRES-Vet]] | [[THL]], [[Fimea]], [[Finnish Food Authority\|Ruokavirasto]] |
+| [[Iceland]] | [[Icelandic AMR-AMU Report]] | [[Iceland Directorate of Health\|Directorate of Health]], [[MAST]] |
+| [[Norway]] | [[NORM-NORM-Vet\|NORM / NORM-Vet]] | [[NIPH]], [[NVI]], [[UNN]], [[NFSA]] |
+| [[Sweden]] | [[Swedres-Svarm]] | [[PHAS]], [[SVA]], [[Swedish eHealth Agency\|eHealth Agency]], [[SBA]] |
 
 ---
 
