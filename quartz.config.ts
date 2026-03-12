@@ -12,7 +12,10 @@ const config: QuartzConfig = {
     pageTitleSuffix: " – Nordic consortium to Monitor & Research AMR",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: {
+      provider: "goatcounter",
+      websiteId: "nomoreamr",
+    },
     locale: "en-GB",
     baseUrl: "nomoreamr.org",
     ignorePatterns: ["private", "templates", ".obsidian"],
