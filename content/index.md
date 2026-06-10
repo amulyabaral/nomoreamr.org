@@ -38,7 +38,7 @@ Each Nordic country operates a national surveillance programme that monitors AMR
 
 ## Roadmap & Vision
 
-Our [[Roadmap]] outlines the path toward integrated One Health AMR/AMU surveillance in the Nordic region, including:
+Our [Roadmap/Roadmap]] outlines the path toward integrated One Health AMR/AMU surveillance in the Nordic region, including:
 
 - [[Recommendations]] for harmonised data collection and sharing
 - A [[Vision for Integrated Surveillance|vision]] of decentralised data collection with centralised insight
